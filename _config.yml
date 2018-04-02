@@ -79,4 +79,4 @@ theme: landscape
 deploy:
   type: git
   repo: git@github.com:qq756072981/shuyang.git
-  branch: master/public
+  branch: master
